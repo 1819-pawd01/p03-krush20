@@ -1,0 +1,64 @@
+/*
+* Katherine Rush
+* November 11, 2018
+* PO3
+*/
+
+/* The universal seltor *?
+
+*{
+
+
+}
+
+/* Body attributes here */
+
+body {
+    font-size: 18px;
+    font-family: verdana;
+    margin: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+th {
+    color: red;
+    text-align: center;
+    vertical-align: middle;
+    background-color: azure
+}
+
+tr:hover{
+    background-color: lavender;
+}
+
+tfoot {
+    background-color: lightblue;
+}
+
+thead {
+    background-color: azure;
+}
+
+tbody {
+    color: orchid;
+    background-color: antiquewhite
+}
+
+h1 {
+font-family: cursive;
+}
+
